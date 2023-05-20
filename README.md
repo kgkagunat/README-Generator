@@ -15,6 +15,17 @@ The only real challenges I had was my 'generateMarkdown.js' file. I had the most
 Most of the time the SVG would not show up or I would get a 404 message everytime. I had to do extensive research on why that happened. I also had to make adjustments to the name of the license type.
 The name to the website and the svg had specific naming convention for the license. Once I figured that out, my svg showed up as expected.
 
+----------------------------------------------------------------------------------------------------------------
+
+REPOSITORY INFO
+
+In this repository I have a total of 3 folders:
+
+1) The 'readme-sample' folder contains a sample readme.md for reference.
+
+2) The 'utils' folder contains the 'generateMarkdown.js' file.
+
+3) Lastly the 'walkthrough-video' contains a zip file. When unzipped, it will contain a .mov video file for the walkthrough of this readme.
 
 ----------------------------------------------------------------------------------------------------------------
 
