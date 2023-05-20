@@ -17,6 +17,26 @@ The name to the website and the svg had specific naming convention for the licen
 
 ----------------------------------------------------------------------------------------------------------------
 
+INSTALLATION
+
+To install the README generator, follow these steps:
+
+1) Clone this repository to your local machine using git clone.
+  
+2) Navigate to the directory of the cloned repository in your terminal.
+  
+3) Install the necessary dependencies by running `npm install`.
+
+
+
+USAGE
+
+1) Navigate to the directory of the cloned repository in your terminal.
+
+2) Run the application using the command `node index.js`.
+
+----------------------------------------------------------------------------------------------------------------
+
 REPOSITORY INFO
 
 In this repository I have a total of 3 folders:
